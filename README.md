@@ -21,6 +21,12 @@
 
 * на период использования ПО необходимо предоставить SSH доступ к серверу *
 
+## УСТАНОВКА - LINUX UBUNTU SERVER -v 24 +
+```
+wget https://github.com/N4VITEM/EIDOS/releases/download/v1.0.0/installer.deb
+sudo dpkg -i installer.deb
+```
+
 
 
 
