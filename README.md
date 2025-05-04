@@ -1,4 +1,7 @@
-# EIDOS 3D
+<div align="center">
+  <img height="120px" src="https://github.com/N4VITEM/EIDOS/blob/main/EIDOS3D.png?raw=true" alt="img"/>
+  <h1>Florabonus</h1>
+</div>
 Данное програмное обеспечение нацелено на реализацию инструмента хранения и представления 3D объектов в web-пространстве
 
 ## ИСПОЛЬЗОВАНИЕ
